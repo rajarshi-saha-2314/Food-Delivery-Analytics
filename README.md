@@ -5,7 +5,7 @@
 ---
 
 ## 🔥 Live Demo
-🌐 Streamlit App: *https://delivery-iq-059.streamlit.app/*
+🌐 Streamlit App: *https://delivery-iq-059.streamlit.app/*  
 📁 Power BI Dashboard: Available in `/dashboard/powerbi.pbix`
 
 ---
