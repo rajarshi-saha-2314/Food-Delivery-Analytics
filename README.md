@@ -36,7 +36,7 @@ It demonstrates a complete analytics workflow from **raw data → feature engine
 
 ```
 
-Food-Delivery-Analytics-System/
+Food-Delivery-Analytics/
 ┣ data/
 ┃ ┣ food_delivery_times.csv
 ┃ ┗ cleaned_data.csv
